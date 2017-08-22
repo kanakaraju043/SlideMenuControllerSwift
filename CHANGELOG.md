@@ -1,3 +1,65 @@
+3.0.1 Release notes (2016-12-02)
+=============================================================
+
+### Enhancements
+* Added options `panGesturesEnabled` and `tapGesturesEnabled`.
+  Options defaults are of course set to enabled/true so no impact to anyone already using this.
+
+### Bugfixes
+* Fix project settings.
+
+
+3.0.0 Release notes (2016-09-12)
+=============================================================
+
+### Enhancements
+* Support Swift3.0
+
+### Bugfixes
+* None.
+
+
+2.3.0 Release notes (2016-09-12)
+=============================================================
+
+### Enhancements
+* Support Swift2.3
+
+### Bugfixes
+* None.
+
+
+2.2.3 Release notes (2016-09-12)
+=============================================================
+
+### Enhancements
+* None.
+
+### Bugfixes
+* Added viewWillAppear on mainViewController when SlideMenuController appears on screen
+* Fixes sample project image.
+
+2.2.2 Release notes (2016-07-15)
+=============================================================
+
+### Enhancements
+* None.
+
+### Bugfixes
+* Fixes both left and right menus can be opened at the same time.
+
+
+2.2.1 Release notes (2016-07-13)
+=============================================================
+
+#### Please do not use this version because there is a critical bug.
+
+### Enhancements
+* None.
+
+### Bugfixes
+* Fixes status bar remains hidden occationally
+
 2.1.1 Release notes (2016-04-10)
 =============================================================
 
@@ -5,7 +67,7 @@
 * None.
 
 ### Bugfixes
-# Fixes the left and right open bugs
+* Fixes the left and right open bugs
 
 2.1.0 Release notes (2016-03-28)
 =============================================================
@@ -53,7 +115,7 @@
 
 ### Bugfixes
 
-* Fixed remains animation. 
+* Fixed remains animation.
 
 
 2.0.3 Release notes (2015-11-05)
@@ -89,6 +151,3 @@
 ### Bugfixes
 
 * None.
-
-
-

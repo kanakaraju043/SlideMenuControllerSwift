@@ -1,14 +1,15 @@
 SlideMenuControllerSwift
 ========================
 
-[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
+[![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
-[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
+[![Language](http://img.shields.io/badge/language-Swift-brightgreen.svg?style=flat
 )](https://developer.apple.com/swift)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 [![Issues](https://img.shields.io/github/issues/dekatotoro/SlideMenuControllerSwift.svg?style=flat
 )](https://github.com/dekatotoro/SlideMenuControllerSwift/issues?state=open)
+[![Downloads](https://img.shields.io/cocoapods/dt/SlideMenuControllerSwift.svg)](https://cocoapods.org/pods/SlideMenuControllerSwift)
 
 
 
@@ -128,11 +129,9 @@ func rightDidClose()
 ```
 
 ## Requirements
-Requires Swift2.0 and iOS 8.0 and ARC.  
-If you are developing in the swift1.1, please use branch of swift1.1.  
-If you are developing in the swift1.2, please use branch of swift1.2.  
-If you are developing in the swift2.1, please use branch of swift2.1.   
-If you want to use even iOS7.0, please to import the code directly.   
+Requires Swift3.0 and iOS 8.0 and ARC.  
+If you are developing in the Swift1.1 ~ 2.3, please use branch of swift1.1 ~ 2.3.  
+If you want to use even iOS8.0, please to import the code directly.   
 If you want to use objective-c even iOS6.0, plesea use    [SlideMenuControllerOC](https://github.com/Pluto-Y/SlideMenuControllerOC).
 
 ## Features
